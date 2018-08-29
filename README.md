@@ -19,6 +19,7 @@ NPM Packages used:
  - node-spotify-api package in order to retrieve song information from the Spotify API
  - Twitter package to retreive last 20 tweets 
 
+Screenshots are in the repository for viewing.
 
 
 
