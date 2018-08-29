@@ -1,5 +1,4 @@
 # liri-node-app
-liri bot app
 
 LIRI (Language Interpretation and Recognition Interface) is a command line node app that takes specific parameters and give back information from the Spotify, IMDB, and Twitter api.
 
@@ -15,7 +14,10 @@ It takes the following commands:
 
 Enter these commands into the command line after inputing node liri.js to see the result.
 
-
+NPM Packages used:
+ - request package to retrieve data from the OMDB API
+ - node-spotify-api package in order to retrieve song information from the Spotify API
+ - Twitter package to retreive last 20 tweets 
 
 
 
